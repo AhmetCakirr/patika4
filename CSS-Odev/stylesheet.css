@@ -1,0 +1,48 @@
+#li1 {
+    text-align: center;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: 780px;
+    margin: 10px;
+}
+.center {
+    text-align: center;
+}
+.position {
+    display: inline-block;
+    position: relative;
+    left: 580px;
+    margin: 0px;
+}
+.position2 {
+    position: relative;
+    left: 700px;
+}
+.purple {
+    color: purple;
+}
+.red {
+    color: red;
+}
+.goldenrod {
+    color: goldenrod;
+}
+.listposition {
+    list-style-position: inside;
+    text-align: left;
+}
+.font-20 {
+    font-size: 20px;
+}
+.font-14 {
+    font-size: 14px;
+}
+.imgsize {
+    width: 400px;
+    height: 300px;
+}
+body {
+    background-color: #887575;
+    color: white;
+}
